@@ -12,6 +12,7 @@ chmod +x android_payload.sh
 <br>
 <br>
 <h3>Run code</h3><br>
-start ngrock tcp 999
+start ngrock tcp 9999
 
 <br>
+
